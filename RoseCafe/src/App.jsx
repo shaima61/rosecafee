@@ -4,13 +4,15 @@ import './index.css';
 
 // تأكد أنك قمت بإنشاء مكونات الصفحات
 import HomePage from './pages/Home';
+import Menupage from './pages/Menu'; // (مثال، إذا قمت بإنشاء صفحة "عنا")
+
 
 function App() {
   return (
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<HomePage />} /> {/* 2. تحديد المسار '/' للصفحة الرئيسية */}
-        {/* أضف المزيد من المسارات هنا */}
+        <Route path="/menu" element={<Menupage />} /> {/* 4. تحديد المسار '/menu' لصفحة "القائمة" */}
       </Routes>
     </BrowserRouter>
   );
