@@ -7,6 +7,7 @@ import HomePage from './pages/Home';
 import Menupage from './pages/Menu'; // (مثال، إذا قمت بإنشاء صفحة "عنا")
 import AboutPage from './pages/About'; // (مثال، إذا قمت بإنشاء صفحة "عنا")
 import Loginpage from './pages/Login'; // (مثال، إذا قمت بإنشاء صفحة "عنا")
+import Registerpage from './pages/register'; // (مثال، إذا قمت بإنشاء صفحة "عنا")
 
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
         <Route path="/menu" element={<Menupage />} />
         <Route path="/about" element={<AboutPage />}    />
         <Route path="/login" element={<Loginpage />} /> 
+        <Route path="/register" element={<Registerpage />} /> {/* 4. تحديد المسار '/menu' لصفحة "القائمة" */}
 
              
 \
