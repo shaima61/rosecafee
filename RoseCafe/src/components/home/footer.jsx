@@ -10,7 +10,7 @@ function Footer() {
           </a>
         </div>
         <div className="footer__col">
-          <h4>Blogs</h4>
+          <h4>Blogssssssssssss</h4>
           <ul className="footer__links">
             <li>
               <a href="#">
