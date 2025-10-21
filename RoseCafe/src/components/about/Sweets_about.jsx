@@ -2,7 +2,7 @@ import React from 'react';
 import { useEffect } from 'react';
 import ScrollReveal from 'scrollreveal';
 
-function Sweets_about() {
+function                                                        Sweets_about() {
 
 
  
