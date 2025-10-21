@@ -11,7 +11,7 @@ function Menu() {
           <div className="menu__card">
             <img src="public/assets/menu-1.jpg" alt="menu" />
             <div className="menu__card__content">
-              <h4>Caramel Pecan Cinnamon Roll</h4>
+              <h4>Carameloooi Pecan Cinnamon Roll</h4>
               <h3>$14.00</h3>
             </div>
           </div>
