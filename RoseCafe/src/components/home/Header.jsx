@@ -37,13 +37,10 @@ function Header() {
         </div>
         <ul className={`nav__links ${isMenuOpen ? "open" : ""}`} id="nav-links">
       <li><Link to="/">Home</Link></li>
-            <li><Link to="/menu">Menukjhj</Link></li>
-            <li><Link to="/about">About Us</Link></li>    
-<<<<<<< HEAD
-            <li><Link to="/login"> login$$$$ </Link></li>
-=======
+            <li><Link to="/menu">Menu</Link></li>
+            <li><Link to="/about">About Us</Link></li>
             <li><Link to="/login"> login </Link></li>
->>>>>>> d42e4714d70da791ae072948ae06636e110630f3
+
 <li><Link to="/register"> register </Link></li>
 
 
