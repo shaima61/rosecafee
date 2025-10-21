@@ -58,7 +58,7 @@ function Header() {
         </p>
         <div className="header__btns">
           <button className="btn">Let's Eat</button>
-          <button className="btn">Book a Table abrar</button>
+          <button className="btn">Book a Table </button>
         </div>
       </div>
     </header>
