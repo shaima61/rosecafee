@@ -30,7 +30,7 @@ function About() {
         <img src="assets/about.png" alt="about" />
       </div>
       <div className="about__content">
-        <h2 className="section__header">About Our Pastry World</h2>
+        <h2 className="section__header">About Pastry World</h2>
         <div>
           <p>
             Welcome to PastryWorld, where every pastry tells a story of passion,
