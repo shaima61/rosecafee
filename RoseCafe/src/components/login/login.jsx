@@ -31,9 +31,9 @@ function Loginuser() {
             <input type="checkbox" id="check" />
             <label for="check">Remember me</label>
           </div>
-          <a href="#" className="forgot__password">Forgotjjjjj Password?</a>
+          <a href="#" className="forgot__password">Forgot Password?</a>
         </div>
-        <button className="login__btn">Login</button>
+        <button className="login__btn">Loginjjj</button>
         <div className="register">
           Don't have an account?<Link to="/register"> register </Link>
         </div>
